@@ -1,0 +1,5 @@
+    print('insira valores validos')
+        kmPorLitroAlcohol = float(input('quantos km o seu automovel faz por litro de alcoll: '))
+        kmPorLitroGasoline = float(input('quantos km o seu automovel faz por litro de gasolina: '))
+        PricePerAlcoholLiter = float(input('quanto custa o litro de alcol: '))
+        PricePerGasolineLiter = float(input('quanto custa o litro de gasosa: '))
